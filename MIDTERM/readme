@@ -1,1 +1,48 @@
+Readme
+Problem 1: 
+How to run:
+1. Open a terminal window.
+2. Go to the folder where the files are saved. For example  cd Downloads
+3. Type the command:py snowfall.py < snowfall_input1.txt
+4. The console will print one of the following:
+   <input> solution: YES or<input> solution: NO
+
+Heart of the algorithm:
+The program reads the number of days and a list of snowfall values. 
+It checks if the total snowfall of any three consecutive days 
+is greater than half of the total snowfall for all days. 
+If this happens, it prints “solution: YES”. 
+Otherwise, it prints “solution: NO”.
+Problem 2: Pandemic
+How to run:
+1. Open a terminal window.
+2. Go to the folder where the files are saved. For example:   cd Downloads
+3. Type the command:  py pandemic.py < pandemic_input1.txt
+4. The console will print one of the following:There are healthy counties left or
+   There are no healthy counties left
+
+Heart of the algorithm:
+The program reads the size of a square grid and the positions of the infected counties. 
+A healthy county becomes infected if two or more of its four neighbors 
+are infected. The program repeats this process until no new infections happen. In the end, it checks the grid and prints whether there are still any healthy counties.
+Problem 3
+How to run:
+1. Open a terminal window and go to the folder containing this file.
+2. Type: py shopping_cart.py < shopping_input1.txt
+3. The console will print the result, for example:  4 items were selected
+
+Heart of the algorithm:
+The program uses a sliding window method to find the longest sequence of aisles that contains at most two unique item categories. 
+When a third category appears, the window is moved forward until only two remain. The variable “max_items” keeps track of the longest valid sequence.
+
+Problem 4
+How to run:
+1. Open a terminal window.
+2. Go to the folder where your files are saved. For example:cd Downloads
+3. Type the command: py symbol_puzzle.py < spg_input1.txt
+4. The console will print either:   The board is valid orThe board is invalid
+
+Heart of the algorithm:
+The program uses a simple validation algorithm to check whether the n×n symbol board is valid. 
+It checks every cell on the board to make sure no symbol appears more than once in the same row, column, or √n × √n box. If all cells follow these three rules, the board is considered valid and the program prints “The board is valid”. Otherwise, it prints “The board is invalid”.
 
