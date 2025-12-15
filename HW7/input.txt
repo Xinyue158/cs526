@@ -1,0 +1,360 @@
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
+In the morning, I wake up at home.
+I stay at home and do makeup.
+I eat breakfast at home.
+I watch TV at home for a short time.
+I study class526 and work on homework.
+I practice ballet at home.
+
+At noon, I stay at home.
+I eat lunch at home.
+I take a short break.
+I study class526 again and review homework.
+I use my laptop at home.
+
+In the afternoon, I am still at home.
+I practice ballet again.
+I do makeup and take a break.
+I study class526 and work on homework.
+I watch TV at home.
+
+In the evening, I stay at home.
+I eat dinner at home.
+I review homework and study class526.
+I write Python code for class526 at home.
+I take a break and watch TV.
+
+At night, I am at home.
+I finish homework for class526.
+I remove makeup.
+I close my laptop and rest at home.
+
